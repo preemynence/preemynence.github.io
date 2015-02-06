@@ -2,7 +2,7 @@ url: https://preemynence.github.io
 baseurl: 
 
 # Site settings
-title: PreEmynence PVT LTD.
+title: PreEmynence
 email: preemynence@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -13,17 +13,22 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 people:
 - name: Vishal Prajapati
   pic: 1
   position: Lead Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/vishalprajapati
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://www.facebook.com/vishal.nirma
+    - title: linkedin
+      url: http://in.linkedin.com/in/vishalprajapati
+    - title: github
+      url: http://github.com/vishalprajapati
+    - title: google-plus
+      url: https://plus.google.com/+VishalPrajapati
 
 - name: Nisarg Prajapati
   pic: 2
@@ -33,26 +38,22 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: linkedin
-      url: #
+      
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/preemynence
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://facebook.com/preemynence
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/preemynence
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/preemynence
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 737/3, First Floor, 1st Main,
+  - line: AECS Layout, C BLock, Bangalore - 560037
 
 # Build settings
 markdown: kramdown
