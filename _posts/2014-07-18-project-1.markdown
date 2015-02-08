@@ -1,0 +1,15 @@
+---
+title: GitHub.
+subtitle: PreEmynence Repository
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: github.png
+thumbnail: github-thumbnail.png
+alt: GitHub Repoisitory - Preemynence
+project-date: April 2014
+client: None
+category: Public Showcase
+description: We also believe in the opensource and coloboration,we share the resuable plugable source to community.
+
+---

@@ -1,0 +1,60 @@
+url: https://preemynence.github.io
+baseurl: 
+
+# Site settings
+title: PreEmynence
+email: preemynence@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+people:
+- name: Vishal Prajapati
+  pic: 1
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/vishalprajapati
+    - title: facebook
+      url: http://www.facebook.com/vishal.nirma
+    - title: linkedin
+      url: http://in.linkedin.com/in/vishalprajapati
+    - title: github
+      url: http://github.com/vishalprajapati
+    - title: google-plus
+      url: https://plus.google.com/+VishalPrajapati
+
+- name: Nisarg Prajapati
+  pic: 2
+  position: Android/iOS Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+      
+
+social:
+  - title: twitter
+    url: http://twitter.com/preemynence
+  - title: facebook
+    url: http://facebook.com/preemynence
+  - title: bitbucket 
+    url: http://bitbucket.org/preemynence
+  - title: github
+    url: http://github.com/preemynence
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 737/3, First Floor, 1st Main,
+  - line: AECS Layout, C BLock, Bangalore - 560037
+
+# Build settings
+markdown: kramdown
+permalink: pretty
