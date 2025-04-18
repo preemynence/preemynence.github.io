@@ -2,7 +2,7 @@ url: https://preemynence.github.io
 baseurl: /preemynence
 
 # Site settings
-title: PreEmynence
+title: Preeminence Technologies LLP
 email: preemynence@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 737/3, First Floor, 1st Main,
-  - line: AECS Layout, C BLock, Bangalore - 560037
+  - line: S-224, 2nd Floor, Square One,
+  - line: Village Panchot,Mehsana – 384002.
 
 # Build settings
 markdown: kramdown
