@@ -1,5 +1,5 @@
-url: https://preemynence.github.io
-baseurl: /preemynence
+url: https://preeminence.github.io
+baseurl: /preeminence
 
 # Site settings
 title: Preeminence Technologies LLP
@@ -42,13 +42,13 @@ people:
 
 social:
   - title: twitter
-    url: http://twitter.com/preemynence
+    url: http://twitter.com/preeminence
   - title: facebook
-    url: http://facebook.com/preemynence
+    url: http://facebook.com/preeminence
   - title: bitbucket 
-    url: http://bitbucket.org/preemynence
+    url: http://bitbucket.org/preeminence
   - title: github
-    url: http://github.com/preemynence
+    url: http://github.com/preeminence
 
 # Postal address (add as many lines as necessary)
 address:

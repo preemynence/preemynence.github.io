@@ -24,7 +24,7 @@ $(function() {
                     name: name,
                     phone: phone,
                     email: email,
-                    _subject: "PreEmynence Contact Form submission.",
+                    _subject: "Preeminence Technologies LLP Contact Form submission.",
                     message: message
                 },
                 dataType: "json",
